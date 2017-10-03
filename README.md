@@ -1,3 +1,6 @@
+---
+Permalink: index.html
+---
 # Goupilpil
 
 ## Qui suis-je ?
