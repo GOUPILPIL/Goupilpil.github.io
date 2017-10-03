@@ -1,5 +1,5 @@
 ---
-Permalink: index.html
+permalink: index.html
 ---
 # Goupilpil
 
