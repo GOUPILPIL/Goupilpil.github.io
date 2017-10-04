@@ -6,24 +6,26 @@
 		<title>VICTOR B.</title>
 	</head>
 <body>
-	  <div class="burger">
+	<div class="burger">
       <div class="bun-top">
-      	<div class="formulaire">
-      		<form>Votre nom :<input type="text" name="name">
-      	</div>
+      		<form action="https://formspree.io/vibucho@gmail.com"
+      method="POST">
+                  <label>Votre nom :</label>
+                  <input type="text" name="name" required>
       </div>
       <div class="tomato">
-      			Email :<input type="text" name="mail">
+      	<label>Email :</label>
+            <input type="text" name="mail" required>
       </div>
       <div class="cheese"></div>
       <div class="onion"></div>
       <div class="patty">
-      <label>Votre message</label><br>
-      	      <textarea name="message" id="ameliorer" rows="5" cols="30">
-      </textarea>
-      </form>
+                  <label>Votre message</label><br>
+      	      <textarea name="message" id="ameliorer" rows="5" cols="30" required></textarea>
       </div>
-      <div class="bun-bottom"> <input type="submit" value="Envoyer" /></div>
+            <div class="bun-bottom"> 
+            <input type="submit" value="Envoyer"/></div>
+            </form>
       <div class="plate"></div>
     </div>
 </body>
