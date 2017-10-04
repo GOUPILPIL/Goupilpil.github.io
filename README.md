@@ -27,36 +27,8 @@ Je veux développer des compétences en programmation web, en commencant par le 
 
 Mon projet professionnel, c'est de creer des truc 
 
-<!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" type="text/css" href="style.css">
-		<title>VICTOR B.</title>
-	</head>
-<body>
-	  <div class="burger">
-      <div class="bun-top">
-      	<div class="formulaire">
-      		<form>Votre nom :<input type="text" name="name">
-      	</div>
-      </div>
-      <div class="tomato">
-      			Email :<input type="text" name="mail">
-      </div>
-      <div class="cheese"></div>
-      <div class="onion"></div>
-      <div class="patty">
-      <label>Votre message</label><br>
-      	      <textarea name="message" id="ameliorer" rows="5" cols="30">
-      </textarea>
-      </form>
-      </div>
-      <div class="bun-bottom"> <input type="submit" value="Envoyer" /></div>
-      <div class="plate"></div>
-    </div>
-</body>
-</html>
-
+Voici mon formulaire :[forumulaire](
+form.html "Mon Bric à Brac")
 
 
 
