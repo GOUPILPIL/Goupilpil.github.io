@@ -37,6 +37,7 @@ h2 {
   background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
+  margin: auto;
 }
 
 .cheese {
@@ -44,6 +45,7 @@ h2 {
   width: 60%;
   background: #f2c120;
   border-bottom: solid 2px rgba(0,0,0,.1);
+  margin: auto;
 }
 
 .tomato {
@@ -51,6 +53,7 @@ h2 {
   width: 60%;
   background-color: #dd3710;
   border-bottom: solid 2px rgba(0,0,0,.1);
+  margin: auto;
 }
 
 .patty {
@@ -59,12 +62,14 @@ h2 {
   background: #ad370b;
   border-radius: 15px;
   border-bottom: solid 2px rgba(0,0,0,.1);
+  margin: auto;
 }
 
 .onion {
   width: 60%;
   background-color: #a039bf;
   border-top: dotted 20px rgba(255,255,255,.2);
+  margin: auto;
 }
 
 .bun-bottom {
@@ -73,6 +78,7 @@ h2 {
   background: #e5b05a;
   border-radius: 20px 20px 40px 40px;
   border-top: solid 8px rgba(0,0,0,.1)
+  margin: auto;
 }
 
 .plate {
@@ -80,4 +86,5 @@ h2 {
   width: 80%;
   background: #656565;
   border-radius: 20px 20px 200px 200px;
+  margin: auto;
 }
