@@ -31,10 +31,9 @@ Mon projet professionnel, c'est de creer des truc
 Voici mon formulaire :[formulaire](
 form.html "Mon Bric à Brac")
 
-	<div class="burger">
+<div class="burger">
       <div class="bun-top">
-      		<form action="https://formspree.io/vibucho@gmail.com"
-      method="POST">
+      		<form action="https://formspree.io/vibucho@gmail.com" method="POST">
                   <label>Votre nom :</label>
                   <input type="text" name="name" required>
       </div>
@@ -52,5 +51,5 @@ form.html "Mon Bric à Brac")
             <input type="submit" value="Envoyer"/></div>
             </form>
       <div class="plate"></div>
-    </div>
+</div>
 
