@@ -50,7 +50,7 @@ form.html "Mon Bric à Brac")
             <div class="bun-bottom"> 
                   <input type="submit" value="Envoyer"/>
             </div>
+            <div class="plate"></div>
       </form>
-      <div class="plate"></div>
 </div>
 
