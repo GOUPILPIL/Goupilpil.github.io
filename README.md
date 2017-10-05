@@ -1,6 +1,6 @@
 ---
+layout: page
 permalink: index.html
-layout:page
 ---
 # Goupilpil
 
