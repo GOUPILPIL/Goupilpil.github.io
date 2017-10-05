@@ -1,5 +1,6 @@
 ---
 permalink: index.html
+layout:page
 ---
 # Goupilpil
 
@@ -30,5 +31,26 @@ Mon projet professionnel, c'est de creer des truc
 Voici mon formulaire :[formulaire](
 form.html "Mon Bric à Brac")
 
-
+	<div class="burger">
+      <div class="bun-top">
+      		<form action="https://formspree.io/vibucho@gmail.com"
+      method="POST">
+                  <label>Votre nom :</label>
+                  <input type="text" name="name" required>
+      </div>
+      <div class="tomato">
+      	<label>Email :</label>
+            <input type="text" name="mail" required>
+      </div>
+      <div class="cheese"></div>
+      <div class="onion"></div>
+      <div class="patty">
+                  <label>Votre message</label><br>
+      	      <textarea name="message" id="ameliorer" rows="5" cols="30" required></textarea>
+      </div>
+            <div class="bun-bottom"> 
+            <input type="submit" value="Envoyer"/></div>
+            </form>
+      <div class="plate"></div>
+    </div>
 
